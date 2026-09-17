@@ -1,6 +1,9 @@
 ## Bem-vindo ao perfil do Eduardo Vitorino🐺
 
 ### 💻 Tecnologias e Ferramentas
+
+<br/>
+
 <p>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -12,16 +15,23 @@
 
 ### 📊 Minhas Estatísticas
 
+<br/>
+
 <p align="center">
-  <img align="center" height="180" src="https://vercel.com/vitorinoeduard/github-readme-stats/Eh82oDWpEbXJ1ziMZXVaBnbsFi9M/api?username=vitorinoeduard&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img align="center" height="180" src="https://github-readme-stats-three-chi-98.vercel.app/api?username=vitorinoeduard&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   
-  <img align="center" height="180" src="https://https://vercel.com/vitorinoeduard/github-readme-stats/Eh82oDWpEbXJ1ziMZXVaBnbsFi9M/api/top-langs/?username=vitorinoeduard&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img align="center" height="180" src="https://github-readme-stats-three-chi-98.vercel.app/api/top-langs/?username=vitorinoeduard&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 <br/>
 
 ### 🌐 Me encontre por aqui
+
+<br/>
+
 <p>Para conteúdo sobre programação ou para conversarmos, me chame nas redes abaixo ou acesse meu site!</p>
+
+<br/>
 
 <p>
   <!-- Nova badge do seu site -->
