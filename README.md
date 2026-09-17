@@ -15,7 +15,7 @@
 
 <p>
   <!-- Nova badge do seu site -->
-  <a href="https://vitorino.site" target="_blank"><img src="https://github.com/vitorinoeduard/vitorinoeduard/blob/main/VLABSGIT.png?raw=true" alt="Site V LABS" height="28"></a>
+  <a href="https://vitorinolabs.site" target="_blank"><img src="https://github.com/vitorinoeduard/vitorinoeduard/blob/main/VLABSGIT.png?raw=true" alt="Site V LABS" height="28"></a>
   
   <a href="https://instagram.com/eduarvitorino" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
