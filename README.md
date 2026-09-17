@@ -10,6 +10,16 @@
 
 <br/>
 
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img align="center" height="180" src="https://vercel.com/vitorinoeduard/github-readme-stats/Eh82oDWpEbXJ1ziMZXVaBnbsFi9M/api?username=vitorinoeduard&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <img align="center" height="180" src="https://https://vercel.com/vitorinoeduard/github-readme-stats/Eh82oDWpEbXJ1ziMZXVaBnbsFi9M/api/top-langs/?username=vitorinoeduard&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</p>
+
+<br/>
+
 ### 🌐 Me encontre por aqui
 <p>Para conteúdo sobre programação ou para conversarmos, me chame nas redes abaixo ou acesse meu site!</p>
 
