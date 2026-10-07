@@ -7,7 +7,7 @@
   
    💻 Desenvolvedor focado em tecnologias web e soluções com **JavaScript** e **Java**. <br/>
    🛠️ Atualmente a aprofundar conhecimentos em desenvolvimento web e boas práticas de código.<br/>
-   🎯 Criador do **Vitorino Labs**, a desenvolver projetos e a partilhar conhecimento. <br/>
+   🎯 Criador do **Vitorino Labs**,. <br/>
    ⚡ Curiosidade: sempre à procura de novos desafios técnicos e aprimoramento contínuo <br/>
   
   
