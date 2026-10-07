@@ -49,7 +49,7 @@
   
   <br/>
   
-  <p>Para conteúdo sobre programação ou para conversarmos, me chame nas redes abaixo ou acesse meu site!</p>
+  <p>Para conteúdo sobre programação , me chame nas redes abaixo ou acesse meu site!</p>
   
   <br/>
   
